@@ -1,0 +1,18 @@
+teamspeak:
+  config:
+    restHost: http://127.0.0.1:8080
+    apiKey: string
+    teamSpeakHost: 127.0.0.1
+    queryName: serveradmin
+    queryPassword: password
+    virtualServerId: 1
+    queryNickName: bot
+    verifyRestHost: http://127.0.0.1:8080
+    verifyApiKey: string
+  support:
+    supportQueueChannelId: 1
+    supportChannelIds: [ ]
+    supportGroupId: 0
+    supportChannelNameWhenOpen: open
+    supportChannelNameWhenClosed: closed
+    supportChannelPasswordWhenClosed: password
